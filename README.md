@@ -10,7 +10,7 @@ So just to give everyone an idea between normal audio-playback (just direct reco
 - 2nd 30sec are the captured bluetooth audio
 
 
-[TestDanteBluetooh.wav](TestDanteBluetooh.wav)
+[TestDanteBluetooh.wav](TestDanteBluetooh.wav?raw=true)
 
 Audio-Levels of the bluetooth recording are a bit alterered due to the adapters low output-level (audio was @100% on the iPhone during playback)
 
